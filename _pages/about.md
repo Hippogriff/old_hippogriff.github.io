@@ -16,4 +16,8 @@ news: false
 social: true
 ---
 
-I am Gopal.
+I am Ph.D. student working on Computer Vision, at CICS UMass-Amherst. I am
+advised by [Evangelis Kalogerakis](http://people.cs.umass.edu/~kalo/),
+and [Subhransu Maji](https://people.cs.umass.edu/~smaji/). My areas of interests
+are Deep Learning, Probabilistic Graphical Models and Deep Reinforcement
+Learning. Previosuly I have worked with Bernard Ghanem 

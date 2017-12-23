@@ -77,7 +77,7 @@ highlighter: pygments
 include: ['_pages']
 
 # Gems
-gems:
+plugins:
     - jekyll-paginate
     - jekyll/scholar
     - jemoji
@@ -85,7 +85,7 @@ gems:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Gopal Sharma
 
   style: apa
   locale: en
