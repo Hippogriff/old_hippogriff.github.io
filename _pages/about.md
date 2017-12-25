@@ -12,12 +12,14 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>--->
 
-news: false
+news: True
 social: true
 ---
 
-I am Ph.D. student working on Computer Vision, at CICS UMass-Amherst. I am
-advised by [Evangelis Kalogerakis](http://people.cs.umass.edu/~kalo/),
-and [Subhransu Maji](https://people.cs.umass.edu/~smaji/). My areas of interests
-are Deep Learning, Probabilistic Graphical Models and Deep Reinforcement
-Learning. Previosuly I have worked with Bernard Ghanem
+I am a Ph.D. student at [CICS](https://www.cics.umass.edu/) UMass-Amherst. I am
+advised by Prof. [Evangelis Kalogerakis](http://people.cs.umass.edu/~kalo/), and
+Prof. [Subhransu Maji](https://people.cs.umass.edu/~smaji/). I am interested in
+Deep Learning, Computer Vision and Deep Reinforcement Learning. Previously, I
+have worked at [VCC](https://vcc.kaust.edu.sa/Pages/Home.aspx) with Prof.
+[Bernard Ghanem](http://www.bernardghanem.com/). Currently, I am working on
+interpretable Generative Networks for Visual Program Induction.

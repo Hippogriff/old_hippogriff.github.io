@@ -3,4 +3,4 @@ layout: page
 permalink: /contacts/                                                         
 title: Contacts
 ---
-Contacts are here.
+The best way to contact me is to send an [email](mailto:{{ site.email }}).
