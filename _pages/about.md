@@ -22,4 +22,4 @@ Prof. [Subhransu Maji](https://people.cs.umass.edu/~smaji/). I am interested in
 Deep Learning, Computer Vision and Deep Reinforcement Learning. Previously, I
 have worked at [VCC](https://vcc.kaust.edu.sa/Pages/Home.aspx) with Prof.
 [Bernard Ghanem](http://www.bernardghanem.com/). Currently, I am working on
-interpretable Generative Networks for Visual Program Induction.
+interpretable Generative Networks for Visual Program Induction. You can find my [CV here](/assets/CV/cv.pdf).
