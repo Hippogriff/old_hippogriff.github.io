@@ -6,7 +6,7 @@ description: <a href="">University of Massachussets, Amherst</a>
 
 profile:
   align: right
-  image: Hippogrif.png
+  image: Hippogriff.jpg
   address: >
     <!---<p>555 your office number</p>
     <p>123 your address street</p>
